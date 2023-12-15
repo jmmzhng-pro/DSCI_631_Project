@@ -1,5 +1,5 @@
 
-# Master Project README DSCI 631: Using Economic Indicators and Sentiment Analysis of Economic Policies to Build a Predictive Model of S&P 500 Stock Price
+# DSCI 631 Project: Using Economic Indicators and Sentiment Analysis of Economic Policies to Build a Predictive Model of S&P 500 Stock Price
 
 ## Project Overview
 This project focuses on advanced data analysis techniques, integrating time series modeling, sentiment analysis, feature aggregation and selection, and data acquisition with exploratory data analysis (EDA). It's designed to provide comprehensive insights into financial texts and stock price prediction, specifically the S&P 500 stock price and FOMC textual data analysis for prediction of stock changes.
