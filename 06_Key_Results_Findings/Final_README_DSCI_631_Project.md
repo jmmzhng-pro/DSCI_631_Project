@@ -33,7 +33,7 @@ To run the notebooks associated with this project, you need to have Python insta
 - It's recommended to use a virtual environment (like `venv` or `conda`) to manage the dependencies.
 - Install necessary Python libraries by running `pip install <library-name>`. The required libraries include:
   - `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
-  - For the ARIMA, Prophet, and LSTM notebook: `tensorflow`, `datetime`
+  - For the ARIMA, Prophet, and LSTM notebook: `tensorflow`, `prophet`, `datetime`
   - For the Sentiment Analysis notebook: `utm`, `lxml`, `fastavro`, `h5py`, `spacy`, `nltk`, `joblib`, `toolz`, `textblob`, `gensim`
 
 ### 6. Configuration and Troubleshooting
@@ -42,8 +42,9 @@ To run the notebooks associated with this project, you need to have Python insta
 
 ### 7. Dependencies and Requirements
 The main dependencies for the project include:
-- Data handling and visualization: `pandas`, `numpy`, `matplotlib`, `seaborn`
-- Machine Learning and Modeling: `scikit-learn`, `tensorflow`
+- Data Handling and Visualization: `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotnine`
+- Change Point Detection: `ruptures`
+- Machine Learning and Modeling: `scikit-learn`, `tensorflow`, `prophet`, `scalecast`
 - Sentiment Analysis: `utm`, `lxml`, `fastavro`, `h5py`, `spacy`, `nltk`, `joblib`, `toolz`, `textblob`, `gensim`
 
 ### 8. Contact Information
